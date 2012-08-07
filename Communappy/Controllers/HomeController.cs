@@ -10,7 +10,7 @@ namespace Communappy.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "If you had unlimited developer resources to build a website how would you changes the world?";
 
             return View();
         }
